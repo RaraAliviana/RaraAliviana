@@ -9,4 +9,4 @@ Hi, I'm Rara 👋<br>Software Engineering Student | Game Dev Enthusiast<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat-square&logo=affinity-designer&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)[![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=flat-square&logo=itch.io&logoColor=white)](https://raraaliviana.itch.io/)
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=RaraAliviana&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaraAliviana&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
